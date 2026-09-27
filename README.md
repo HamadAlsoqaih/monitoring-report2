@@ -2,7 +2,7 @@
 
 Order review tracker for monitoring AI order-taking systems across multiple restaurants and branches.
 
-Link: https://hamadalsoqaih.github.io/monitoring-report/
+Link: https://hamadalsoqaih.github.io/monitoring-report2/
 
 ## Features
 
